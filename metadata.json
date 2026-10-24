@@ -1,0 +1,7 @@
+{
+  "name": "GreenNest",
+  "description": "Fictional eco-friendly lifestyle brand and AI email marketing capstone project showcase featuring multi-stage campaigns, automation workflows, and ethical marketing principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
